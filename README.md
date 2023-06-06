@@ -20,6 +20,8 @@
   ```
   pip3 install -r requirements.txt
   ```
+- #### Add your OpenAi API key 
+  https://github.com/Jisan09/Openagent/blob/8884c693a1fd920e00e5d1ff9ee2413b8c459f22/engine.py#L4
 - ### Run the Script
   ```
   python3 engine.py
