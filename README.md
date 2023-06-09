@@ -2,7 +2,7 @@
 
 ## Method to Execute the Script:
 
-- ### Clone the Primenumbers-Tech Repository
+- ### Clone the Openagent Repository
 
   - Open a terminal window on your machine.
 
